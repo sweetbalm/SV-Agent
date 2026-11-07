@@ -1,4 +1,4 @@
-# Evidence Before Action
+# SV-Agent
 
 A Step-Level Self-Verification Framework for Computer-Use Agents: Capabilities ⬆️ Trustworthiness ⬆️ Safety ⬆️
 
@@ -93,7 +93,7 @@ Measured with vLLM’s benchmark CLI.
 | OPD | On-policy distillation using a stronger teacher model |
 
 ## 🤝 Acknowledgement
-Evidence-Before-Action is built on top of [OSWorld](https://github.com/xlang-ai/OSWorld), [LlamaFactory](https://github.com/hiyouga/LlamaFactory) and [ms-swift](https://github.com/modelscope/ms-swift). We thank the authors of those projects.
+SV-Agent is built on top of [OSWorld](https://github.com/xlang-ai/OSWorld), [LlamaFactory](https://github.com/hiyouga/LlamaFactory) and [ms-swift](https://github.com/modelscope/ms-swift). We thank the authors of those projects.
 
 ## 📚 References
 The following works were consulted during this project.
